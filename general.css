@@ -1,0 +1,16 @@
+div
+      {
+        margin:0;
+      }
+      body
+      {
+        font-family: roboto, arial;
+        padding-top: 70px;
+        padding-left: 100px;
+        background-color: whitesmoke;
+
+      }
+      p
+      {
+        margin:0;
+      }
